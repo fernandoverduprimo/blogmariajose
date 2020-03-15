@@ -1,0 +1,32 @@
+---
+title: "16th and 17th March"
+author: "Maria José Caballero"
+date: "15/3/2020"
+output: html_document
+---
++ ### Activities
+
+![](/post/2020-03-15-2nd-grade_files/pdf1.png){width=25%}
+[pdf1](/post/2020-03-15-2nd-grade_files/pdf12nd.pdf){width=25%}
+
+
+![](/./16i172nd_files/img22.jpg){width=25%}
+[pdf2](/./16i172nd_files/pdf22.pdf)
+
++ ### Youtube
+
+    + #### I'm a little Leprechaun song for kids
+    
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "BSJsP_EBhR4")
+```
+
+<br>
+
++ ### Riverdance the final performance
+
+#### Aquella família que m'envie (englishbatallar@gmail.com) un vídeo ballant aquest ball irlandés, a partir del minut 3'20, aconseguirà un punt extra per al seu fill.
+
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "FoHlrQScWl0")
+```

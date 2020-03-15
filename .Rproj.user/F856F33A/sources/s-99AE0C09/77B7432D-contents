@@ -1,0 +1,32 @@
+---
+title: "16th and 17th March"
+author: "Maria José Caballero"
+date: "15/3/2020"
+output: html_document
+---
++ ### Colouring activities
+
+![](/./16i173erd_files/img31.jpg){width=25%}
+[pdf1](/./16i173erd_files/pdf31.pdf)
+
+![](/./16i173erd_files/img32.jpg){width=25%}
+[pdf2](/./16i173erd_files/pdf32.pdf)
+
+
++ ### Youtube activities
+
+    
+    
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "D1oZZ8e7p0M")
+```
+
+<br>
+
++ ### Riverdance the final performance
+
+#### Aquella família que m'envie (englishbatallar@gmail.com) un vídeo ballant aquest ball irlandés, a partir del minut 3'20, aconseguirà un punt extra per al seu fill.
+
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "FoHlrQScWl0")
+```

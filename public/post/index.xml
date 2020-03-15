@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on EnglishBatallar</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on EnglishBatallar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2nd Grade</title>
+      <link>/2020/03/15/2nd-grade/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/15/2nd-grade/</guid>
+      <description>16th and 17th March</description>
+    </item>
+    
+    <item>
+      <title>3rd Grade</title>
+      <link>/2020/03/15/3rd-grade/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/15/3rd-grade/</guid>
+      <description>16th and 17th March</description>
+    </item>
+    
+    <item>
+      <title>4th Grade</title>
+      <link>/2020/03/15/4th-grade/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/15/4th-grade/</guid>
+      <description>16th and 17th March</description>
+    </item>
+    
+    <item>
+      <title>5th Grade</title>
+      <link>/2020/03/15/5th-grade/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/15/5th-grade/</guid>
+      <description>16th and 17th March</description>
+    </item>
+    
+    <item>
+      <title>6th Grade</title>
+      <link>/2020/03/15/6th-grade/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/15/6th-grade/</guid>
+      <description>16th and 17th March</description>
+    </item>
+    
+  </channel>
+</rss>

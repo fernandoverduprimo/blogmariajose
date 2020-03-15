@@ -1,0 +1,43 @@
+---
+title: "16th and 17 th March"
+author: "Fernando Verdú"
+date: "15/3/2020"
+output: html_document
+---
+
+
++ ### Colouring activities
+
+![](/./16i176th_files/img61.jpg)
+[pdf1](/./16i176th_files/pdf61.pdf)
+
+
+![](/./16i176th_files/img62.jpg){width=25%}
+[pdf2](/./16i176th_files/pdf62.pdf)
+
+![](/./16i176th_files/img63.jpg){width=25%}
+[pdf3](/./16i176th_files/pdf63.pdf)
+
++ ### Youtube activities
+
+ 
+    
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "MqO0O8O8Gmk")
+```
+
+<br>
+
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "mfrwReAi-3k")
+```
+
+<br>
+
++ ### Riverdance the final performance
+
+#### Aquella família que m'envie (englishbatallar@gmail.com) un vídeo ballant aquest ball irlandés, a partir del minut 3'20, aconseguirà un punt extra per al seu fill.
+
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "FoHlrQScWl0")
+```
